@@ -38,7 +38,7 @@ Flujo principal:
 `Router -> Controller -> Service -> Repository -> DAO -> Model`
 
 ## Requisitos
-- Node.js 18+
+- Node.js 20+
 - npm
 
 Opciones de base de datos:
